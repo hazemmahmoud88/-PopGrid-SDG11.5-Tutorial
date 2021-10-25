@@ -15,9 +15,10 @@ General Workflow
 1. import your country boundry in .shp file format
 2. import your shake map from USGS .shp file format
 3. locate your 2 files path and edit the path in the script
-4. follow the steps in asending order
-      a. clip population _match.tif from country .shp to _match_country.tif
-      b. clip urban & rural from country .shp to _match_urban_country.tif & _match_rural_country.tif
-      c. deffrentiate between the exposed population to urban and rural using the shakemap .shp from USGS
+4. follow the steps in ascending order
+     
+     a. clip population _match.tif from country .shp to _match_country.tif
+     b. clip urban & rural from country .shp to _match_urban_country.tif & _match_rural_country.tif
+     c. deffrentiate between the exposed population to urban and rural using the shakemap .shp from USGS
 
 **NOTE - THIS REPO IS A WORK IN PROGRESS.** - CPT Oct. 2021 
